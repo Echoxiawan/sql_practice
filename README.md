@@ -141,4 +141,16 @@ By completing this project, you will be able to:
 
 ## 许可 / License
 
-MIT 
+MIT
+
+## 联系方式 / Contact Information
+
+如果你有任何问题或建议，欢迎联系我：
+
+If you have any questions or suggestions, feel free to contact me:
+
+<img src="contact.jpg" alt="联系方式二维码" width="300"/>
+
+扫一扫上面的二维码图案，加我为好友。
+
+Scan the QR code above to add me as a friend. 
